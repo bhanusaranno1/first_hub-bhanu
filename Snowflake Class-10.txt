@@ -21,7 +21,7 @@
 						to connect with snowflake -->  snowsql -c example 
 						
 						
-// Transforming using the SELECT statement
+
 
 list @MANAGE_DB.external_stages.aws_stage;
 
